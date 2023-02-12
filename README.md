@@ -29,3 +29,7 @@ Having caretakers who would actually do their jobs can be challenging as student
 
 ## War On Other Flats (WOOF)
 Caretakers would compete against other caretakers from other flats, like a leaderboard system, the caretaker with the most points wins and gets a bigger reward.
+
+## Technologies Used 
+The App is built with the following technologies:
+- [Django](https://www.djangoproject.com/)
